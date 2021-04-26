@@ -24,6 +24,8 @@ use std::sync::Arc;
 use tokio::sync::mpsc;
 use tokio::sync::Mutex;
 
+pub const PROTOCOL: i64 = 754;
+
 #[derive(Debug)]
 pub struct Settings {
     sneak: bool,

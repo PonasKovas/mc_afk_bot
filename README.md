@@ -9,7 +9,7 @@ Features:
  - Automatically disconnect when low HP
  - Nearly 0% CPU usage
 
-Currently only 1.16.3 version is supported, and only "offline-mode" servers, adding support for other versions and legal servers shouldn't be hard though.
+Only 1.16.5 version is supported, and only "offline-mode" servers, adding support for other recent versions and legal servers shouldn't be hard though.
 
 # Screenshots
 

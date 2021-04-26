@@ -72,7 +72,7 @@ where
 
     client
         .send(ServerBound::Handshake(
-            VarInt(753),
+            VarInt(crate::PROTOCOL),
             MString("bruh".to_string()),
             25565,
             VarInt(2),
