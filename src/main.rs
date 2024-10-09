@@ -1,4 +1,3 @@
-#![feature(future_poll_fn)]
 #![windows_subsystem = "windows"]
 
 mod asyncio;
